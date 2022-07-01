@@ -1,0 +1,8 @@
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\obj\Debug\Class_Assignment2.csproj.AssemblyReference.cache
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\obj\Debug\Class_Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\obj\Debug\Class_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\bin\Debug\Class-Assignment2.exe.config
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\bin\Debug\Class-Assignment2.exe
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\bin\Debug\Class-Assignment2.pdb
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\obj\Debug\Class-Assignment2.exe
+C:\Users\Abel\Documents\GitHub\Class-Assignment2\Class-Assignment2\Class-Assignment2\obj\Debug\Class-Assignment2.pdb
